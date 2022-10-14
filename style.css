@@ -1,0 +1,45 @@
+body {
+  background: radial-gradient(
+    circle at 97.28%,
+    #000000 20%,
+    #1d091d 35%,
+    #1c1c1c 50%,
+    #800000 90%
+  );
+  color: #dcf7f3;
+}
+
+div {
+  background: #1c1c1c;
+  border-radius: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 45px;
+}
+
+h2 {
+  text-align: center;
+  margin: 30px;
+}
+
+body,
+input {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+button {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+h5 {
+  font-size: 25px;
+}
